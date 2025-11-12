@@ -1,16 +1,14 @@
-# mis_lab1
+# Андреј Јакимовски 226086
 
-A new Flutter project.
+### Видео
+[Lab recording.webm](https://github.com/user-attachments/assets/f48c553a-028b-4247-b365-8f2e49e7f583)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Home Screen
+<img width="1080" height="2400" alt="Image 1" src="https://github.com/user-attachments/assets/134290ee-41b9-4e14-85bd-42040ec74e4d" />
 
-A few resources to get you started if this is your first Flutter project:
+### Details - Image 1
+<img width="1080" height="2400" alt="Details 1" src="https://github.com/user-attachments/assets/090cbef5-12fe-46b1-93f1-88b58fadb0f1" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Details - Image 2
+<img width="1080" height="2400" alt="Details 2" src="https://github.com/user-attachments/assets/5d231e4b-a272-4c7b-855c-80bb62b4975c" />
